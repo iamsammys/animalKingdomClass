@@ -8,6 +8,7 @@
 class baseKingdom {
     constructor(name, phylum, classs, order, family, genus, species) {
         this.name = name;
+        this.kingdom = 'Animalia';
         this.phylum = phylum;
         this.classs = classs;
         this.order = order;
